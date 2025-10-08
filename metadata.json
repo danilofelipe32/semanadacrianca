@@ -1,0 +1,5 @@
+{
+  "name": "Gerador de Temas para a Semana da Criança",
+  "description": "Um aplicativo divertido que usa a API Gemini para gerar ideias criativas de temas de festas para a Semana da Criança.",
+  "requestFramePermissions": []
+}
